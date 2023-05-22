@@ -100,7 +100,6 @@
     app.listen(4001, () => {
         console.log('Started on Port 4001')
     })
-
     // JSON.PARSER ჯსონს აქცევს ჯავასცკრიპტის ობიექტად
     // Du hast Folgendes gesendet:
     // JSON.stringify  მასივს აქცევს  ჯსონ სტრინგად
